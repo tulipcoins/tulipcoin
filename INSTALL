@@ -1,0 +1,9 @@
+Building TulipCoin
+
+See doc/readme-qt.rst for instructions on building TulipCoin QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of TulipCoin.
+
+See doc/build-*.txt for instructions on building tulipcoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of TulipCoin.
