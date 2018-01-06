@@ -16,8 +16,12 @@ distribution are installed, for Debian and Ubuntu these are:
         build-essential libboost-dev libboost-system-dev \
         libboost-filesystem-dev libboost-program-options-dev libboost-thread-dev \
         libssl-dev libdb++-dev
+     
+     This Step is needed as well
+     sudo apt-get install libqt4-dev libminiupnpc-dev
 
 then execute the following:
+     
 
 ::
 
